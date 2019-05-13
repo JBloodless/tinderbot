@@ -1,0 +1,34 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Хочу расписание!"
+      },
+      "color": "negative"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Ближайшее событие"
+        },
+        "color": "negative"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Тиндер"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Как это было?"
+      },
+      "color": "default"
+    }]
+
+  ]
+}

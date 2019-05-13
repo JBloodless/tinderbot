@@ -1,0 +1,19 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Искать новые знакомства!"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "В начало"
+      },
+      "color": "default"
+    }]
+  ]
+}

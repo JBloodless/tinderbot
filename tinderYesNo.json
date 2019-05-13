@@ -1,0 +1,19 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Оставить"
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Загрузить новые"
+        },
+        "color": "default"
+      }]
+  ]
+}

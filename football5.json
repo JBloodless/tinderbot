@@ -1,0 +1,19 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Спортивные ученые"
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Ученые спортсмены"
+        },
+        "color": "primary"
+      }]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "ВШЭ (1)"
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "МФТИ (1)"
+        },
+        "color": "primary"
+      }]
+  ]
+}

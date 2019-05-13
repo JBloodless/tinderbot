@@ -1,0 +1,10 @@
+#token = 'c434d51aec37de5120cc2f8c8e22cca1d24c9aa16ac288c3fcd7371350be73cd6870a173200263057af69'   #testbot
+#token = '30c4c860554a9cc64049bed3a3cf5a4b5610d899215263c5eaffda14552c41e8f3ca7b661a06bb0fdcc86'     #festtech
+#token = 'ff178725ed4ee24558f169fa4e3d4ef50e902d89dc4a3041ed566dd8b24ec20c8f836142182b62e4e1d27'     #тест дф
+token = '68208eb1b91f59363c6cb46ab01ab59edcd457778ec82d2b69f3753f69e19508180a4af8805f846df8e58'     #df
+#confirmation_token = 'aaea983e'     #testbot
+#confirmation_token = 'f2af4a05'   #festtech
+#confirmation_token =  '69651560'
+confirmation_token = '9c5fc1d9'   #df
+access_token = ''
+s_token='c93bff54c93bff54c93bff5433c953a15ecc93bc93bff54956a79a1c4eae2363701e544'
